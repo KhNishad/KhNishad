@@ -7,6 +7,6 @@
  
  💬 Ask me about anything on the following topics or anything
  
- 📫 How to reach me: mail,facebook(https://www.facebook.com/kh.nishad.9/)  
+ 📫 How to reach me: mail,linkedIn (https://www.linkedin.com/in/abdus-sattar-793606140/)  
  
 
