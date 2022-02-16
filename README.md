@@ -18,4 +18,4 @@ Currently working as a Software Engineer. </b>
 
 #### Social site: 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuralam024) 
-[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nuralamcse)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kh.nishad.9)
