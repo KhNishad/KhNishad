@@ -6,6 +6,7 @@
 * FrontEnd Technology: React.js,Next js 
 * Mobile App: React Native
 * DataBase: MongoDB & MySql
+* Style : Css, Tailwind , Material UI
 
 
 Currently working as a Software Engineer. </b>
